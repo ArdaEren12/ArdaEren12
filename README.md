@@ -5,7 +5,7 @@
 
 <p align = "left"> <a href = "https://github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=ardaeren12" alt = "ardaeren12" /></a> </p>
 
-- 💼 Şu anda Junior Full Stack geliştirici olarak çalışmaktayım. [Hostixo](www.hostixo.com)
+- 💼 Şu anda Junior Full Stack geliştirici olarak çalışmaktayım. [Hostixo]([www.hostixo.com](https://www.hostixo.com/))
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
