@@ -1,6 +1,6 @@
 <h1 align="center">Merhaba 👋, ben Arda</h1>
 <h3 align="center">
-👨‍💻 Yönetim Bilişim Sistemleri (YBS) mezunuyum. Junior Full Stack Developer olarak; 
+👨‍💻 Yönetim Bilişim Sistemleri (YBS) 4.Sınıf öğrencisiyim. Junior Full Stack Developer olarak; 
 ön yüz ve arka yüz teknolojileriyle modern ve ölçeklenebilir uygulamalar geliştirmeye tutkuyla bağlıyım. 🚀
 </h3>
 
