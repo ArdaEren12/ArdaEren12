@@ -69,4 +69,7 @@ Junior Full Stack Developer olarak çalışıyorum:  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ardaeren12&show_icons=true&theme=radical&locale=tr" alt="ardaeren12" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaEren12&layout=compact&theme=vision-friendly-dark)](https://github.com/ArdaEren12)
+### En Çok Kullanılan Diller
+<p align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaEren12&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)</p>
+
