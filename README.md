@@ -66,6 +66,7 @@ Junior Full Stack Developer olarak çalışıyorum:  
 ---
 
 ### 📊 GitHub İstatistiklerim:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ardaeren12&show_icons=true&theme=radical&locale=tr" alt="ardaeren12" />
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaEren12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
