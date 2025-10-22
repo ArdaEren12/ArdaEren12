@@ -20,7 +20,7 @@
 
 ### 💼 Şu anda
 Junior Full Stack Developer olarak çalışıyorum:  
-👉 [![Hostixo Logo](https://www.hostixo.com/hostixotm.png)](https://www.hostixo.com/)
+👉       [![Hostixo Logo](https://www.hostixo.com/hostixotm.png)](https://www.hostixo.com/)
 ---
 
 ### 📫 Benimle iletişime geçin:
