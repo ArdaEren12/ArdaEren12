@@ -10,7 +10,6 @@
   <img src="https://komarev.com/ghpvc/?username=ardaeren12&label=Profile%20views&color=0e75b6&style=flat" alt="ardaeren12" />
 </p>
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaEren12&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ### 💼 Şu anda
 Junior Full Stack Developer olarak çalışıyorum:  
 👉       [![Hostixo Logo](https://www.hostixo.com/hostixotm.png)](https://www.hostixo.com/)
