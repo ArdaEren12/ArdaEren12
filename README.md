@@ -5,7 +5,7 @@
 </h3>
 
 ---
-
+[![ArdaEren12's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaEren12&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ardaeren12&label=Profile%20views&color=0e75b6&style=flat" alt="ardaeren12" />
 </p>
