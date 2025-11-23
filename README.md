@@ -5,26 +5,21 @@
 </h3>
 
 ---
-[![ArdaEren12's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdaEren12&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ardaeren12&label=Profile%20views&color=0e75b6&style=flat" alt="ardaeren12" />
 </p>
----
-### 💼 Şu anda
+💼 Şu anda
 Junior Full Stack Developer olarak çalışıyorum:  
 👉       [![Hostixo Logo](https://www.hostixo.com/hostixotm.png)](https://www.hostixo.com/)
----
 
-### 📫 Benimle iletişime geçin:
+📫 Benimle iletişime geçin:
 <p align="left">
   <a href="https://linkedin.com/in/arda-eren51" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn: arda-eren51" height="30" width="40"/>
   </a>
 </p>
 
----
-
-### 🛠️ Diller ve Araçlar:
+🛠️ Diller ve Araçlar:
 <p align="left">
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
@@ -55,9 +50,7 @@ Junior Full Stack Developer olarak çalışıyorum:  
   </a>
 </p>
 
----
-
-### 📊 GitHub İstatistiklerim:
+📊 GitHub İstatistiklerim:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardaeren12&show_icons=true&theme=radical&locale=tr" alt="ardaeren12" />
 </p>
