@@ -74,3 +74,10 @@ Junior Full Stack Developer olarak çalışıyorum:  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ardaeren12&show_icons=true&theme=radical&locale=tr" alt="ardaeren12" />
 </p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
