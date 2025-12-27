@@ -75,4 +75,26 @@ Junior Full Stack Developer olarak çalışıyorum:  
 <img src="https://github-readme-stats.vercel.app/api?username=ardaeren12&show_icons=true&theme=radical&locale=tr" alt="ardaeren12" />
 </p>
 
-
+name: generate animation
+on:
+  schedule: # Her 24 saatte bir çalışır
+    - cron: "0 0 * * *" 
+  workflow_dispatch: # Manuel çalıştırma butonu ekler
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: push github-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
